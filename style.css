@@ -1,0 +1,77 @@
+.container-fluid{
+    background-color: rgba(204, 197, 204, 0.938) !important;
+}
+.navbar-header{
+    
+    padding-right: 550px;
+    padding-left: 90px;
+    font-family:cursive;
+    
+    
+    
+}
+b{
+    color: yellowgreen;
+    
+}
+h3{
+    color: rgb(199, 33, 143) !important;
+    font-weight:bold !important;
+    
+}
+a{
+    color: black !important;
+}
+a:hover{
+    color: rgb(199, 33, 143) !important;
+}
+
+.habc{
+    
+    margin-right: 100px;    
+    font-size: 20px;
+    font-weight: bold;
+    font-family: serif;
+    
+    
+    
+    
+}
+p{
+   font-family:serif;
+   font-weight: bold;
+   padding-left: 110px;
+   
+}
+
+.footer1{
+    
+    font-size: 15px;
+    padding-top: 50px;
+    margin-bottom: 20px;
+}
+.footer2{
+    
+    padding-bottom: 50px;
+    font-size: 12px;
+}
+
+.footer3{
+    
+    
+    background-image: url("Des2.jpg");
+}
+.footer4{
+    color: rgb(184, 13, 84);
+    font-size: 18px;
+}
+.footer{
+    background-color: rgb(67, 177, 81);
+}
+.innerfoo{
+    display: inline-block;
+    font-family: serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+}
